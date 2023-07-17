@@ -1,0 +1,120 @@
+body {
+    background-color: #8dc63f;
+    font-family: "Arial";
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+    background-color: #fff;
+}
+
+.header {
+    padding: 25px 0;
+}
+
+.title p {
+    font-size: 22px;
+    color: #39930d;
+    margin: 0;
+    margin-right: 34px;
+}
+
+.title p,
+.title img {
+    float: left;
+}
+
+.title b {
+    font-size: 44px;
+    display: block;
+}
+
+.title i {
+    font-size: 14px;
+    color: #5a5a5a;
+}
+
+.wrapper>img {  
+    width: 100%;
+}
+
+.contacts {
+    float: right;
+    text-align: right;
+}
+
+.contacts a {
+    font-size: 22px;
+    color: #39930d;
+    margin: 0 17px 11px;
+}
+
+.contacts p {
+    font-size: 14px;
+    color: #5a5a5a;
+    margin: 11px 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.football-description {
+    width: 60%;
+    float: left;
+}
+
+.football-description h1 {
+    font-size: 24px;
+    color: #39930d;
+}
+
+.football-description p {
+    font-size: 14px;
+    line-height: 1.5em;
+    color: #343434;
+    float: right;
+}
+
+.football-partners {
+    width: 31%;
+    float: right;
+}
+
+.football-partners p {
+    background-color: #39930d;
+    font-size: 18px;
+    color: #fff;
+    padding: 15px 20px;
+}
+
+.menu {
+    padding-left: 20px;
+}
+
+.menu li {
+    margin-bottom: 16px;
+    list-style: none;
+}
+
+.football-partners a {
+    font-size: 14px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #39930d;
+}
+
+.footer {
+    margin: 0 -15px;
+    background-color: #39930d;
+    padding: 15px;
+}
+
+.footer p {
+    font-size: 14px;
+    margin: 0;
+    color: #fff;
+}
