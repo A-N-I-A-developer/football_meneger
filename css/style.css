@@ -49,13 +49,13 @@ body {
 .contacts a {
     font-size: 22px;
     color: #39930d;
-    margin: 0 17px 11px;
+    text-decoration: none;
 }
 
 .contacts p {
     font-size: 14px;
     color: #5a5a5a;
-    margin: 11px 15px;
+    margin: 11px 0;
 }
 
 .clear {
