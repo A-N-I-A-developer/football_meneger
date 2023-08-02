@@ -79,6 +79,10 @@ body {
     float: right;
 }
 
+.football-description p:last-child {
+    margin-bottom: 45px;
+}
+
 .football-partners {
     width: 31%;
     float: right;
